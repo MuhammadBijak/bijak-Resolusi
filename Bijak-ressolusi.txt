@@ -2,3 +2,5 @@ Bijak-resolusi
 -pengen konsisten buat ngoding
 -membuat project ext js 
 -membuat project laravel dengan hafal semua code ? 
+-membuat project laravel dengan tema tiket event
+-ingin memiliki Kesucian diri
